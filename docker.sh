@@ -21,7 +21,7 @@ sudo add-apt-repository \
 echo "repository add complete"
 
 echo "Running apt-get update"
-sudo apt-get udpate
+sudo apt-get update
 echo "update complete"
 
 echo "Installing Docker from apt-get"
